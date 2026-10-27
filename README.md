@@ -32,10 +32,9 @@ Then open `frontend/index.html` in a browser. Get a free key at https://aistudio
 Nutrition values are estimates. Freshness from a photo is a visual guess, not a lab test. Hygiene analysis samples a few frames and reports only what is visible.
 
 ## Screenshots
-Add your screenshots to the `screenshots` folder and reference them here, for example:
 
-![Food Recognition](screenshots/food-recognition.png)
-![Freshness Detector](screenshots/freshness.png)
-![Hygiene Monitor](screenshots/hygiene.png)
-![Smart Kitchen](screenshots/smart-kitchen.png)
-![Meal Planner](screenshots/meal-planner.png)
+![Screenshot 1](screenshots/Screenshot%202026-10-27%20182524.png)
+
+![Screenshot 2](screenshots/Screenshot%202026-10-27%20182820.png)
+
+![Screenshot 3](screenshots/Screenshot%202026-10-27%20182936.png)
