@@ -33,8 +33,8 @@ Nutrition values are estimates. Freshness from a photo is a visual guess, not a 
 
 ## Screenshots
 
-![Screenshot 1](screenshots/Screenshot%202026-10-27%20182524.png)
+![Overview dashboard](screenshots/Screenshot%202026-10-27%20182524.png)
 
-![Screenshot 2](screenshots/Screenshot%202026-10-27%20182820.png)
+![Smart Kitchen recipe generator](screenshots/Screenshot%202026-10-27%20182820.png)
 
-![Screenshot 3](screenshots/Screenshot%202026-10-27%20182936.png)
+![AI Personalized Meal Planner](screenshots/Screenshot%202026-10-27%20182936.png)
